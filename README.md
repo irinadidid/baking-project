@@ -1,5 +1,5 @@
 # baking-project
-I started baking in the beginning of the pandemic in 2020. I was wondering what makes a cookie so crunchy, a bread that fluffy and a cake so spongy. So I decided to work on a project that will shed the light on a magic behind backing. 
+I started baking in the beginning of the pandemic in 2020. I was wondering what makes a cookie so crunchy, a bread that fluffy and a cake so spongy. So I decided to work on a project that will shed the light on a magic behind baking. 
 
 Baking project is an exploratory data analysis followed by a charecter-level LSTM RNN trained on ~ 26k recipes from Kaggle dataset.
 
