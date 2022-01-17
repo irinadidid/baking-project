@@ -116,6 +116,6 @@ I have been using an opensource project https://gradio.app
 
 ### Things to improve 
 
-- Recipe title, description, ingredients and instructions are disconneced most of the time 
-- We have lots of repetitions especially on the ingredients section
-- For better perfomance we could, again, use more data
+- [ ] Recipe title, description, ingredients and instructions are disconneced most of the time 
+- [ ] We have lots of repetitions especially on the ingredients section
+- [ ] For better perfomance we could, again, use more data
